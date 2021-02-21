@@ -67,5 +67,5 @@ var mo=setInterval(function(){
     $("#plane").attr("style","top:50%;")
     }
     },100)
-    
+    //nothing updated
 });
